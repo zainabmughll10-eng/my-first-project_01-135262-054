@@ -8,3 +8,10 @@ This is my first GitHub repository created in ICT Lab.
 - Program: BSIT
 - Date: 8 October, 2026
 - Semester: 1st
+
+
+## Skills I'm Learning
+1. GitHub and version control
+2. Programming fundamentals
+3. ICT concepts
+4. Clickup
