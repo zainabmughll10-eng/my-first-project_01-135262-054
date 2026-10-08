@@ -7,4 +7,4 @@ This is my first GitHub repository created in ICT Lab.
 - Name: Zainab Mughal
 - Program: BSIT
 - Date: 8 October, 2026
-____________________
+- Semester: 1st
